@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أذكاري</string>
+    <string name="widget_name">سبحة أذكاري</string>
+    <string name="widget_desc">سبحة إلكترونية تعمل بدون إنترنت من الشاشة الرئيسية</string>
+</resources>

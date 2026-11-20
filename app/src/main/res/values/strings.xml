@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Azkari 2027</string>
+    <string name="widget_name">Azkari Masbaha</string>
+    <string name="widget_desc">Offline Islamic Tasbeeh counter right on your home screen</string>
+</resources>
